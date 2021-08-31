@@ -172,29 +172,29 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* font size and bottom margin */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* font size and bottom margin */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* font size and bottom margin */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* font, color, alignment of footer, and font family  */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* font size for the footer */
 .footer h2 {
     font-size: 20px;
 }
