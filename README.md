@@ -1,10 +1,10 @@
 # <Horiseon Code Refactor>
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? This project Motivation was brought on to help clean up and re-factor the code to help improve the sites accessibility and function. 
+- Why did you build this project? I built this project to help improve my skillset in semantic elements.
+- What problem does it solve? This page had broken links, and semantic element flow. All areas of the page are now working properly.
+- What did you learn? Taking on this project I learned alot about how a page should be formatted, also how the css.style sheet co-exists and supports the html code to give your the desired look and functionality for the page. 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
@@ -12,7 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. Attached is a link to the deployed page for easy access. https://addonelson.github.io/Homework02/
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
