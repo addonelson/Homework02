@@ -7,4 +7,7 @@
 ## Installation
  Attached is a link to the deployed page for easy access. https://addonelson.github.io/Homework02/
 ## Usage
+  ```md
+    ![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-HW-AGD-Homework02-index-html-2021-09-05-14_18_47.png)
+    ```
 
