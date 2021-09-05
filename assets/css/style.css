@@ -86,73 +86,25 @@ p {
     background-color: #2589bd;
 }
 /* sets the size and color of the lead generation section */
-.benefit-lead {
+.benefit-lead, .benefit-cost, .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* sets the size and color of the Brand awareness section */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* sets the size and color of the Cost Management section */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
 /* text alignment and size of the h3 tag */
-.benefit-lead h3 {
+.benefit-lead h3, .benefit-cost h3, .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* text alignment and size of the h3 tag */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* text alignment and size of the h3 tag */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+
 /* This dictates the size and location of the benefit lead image*/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* This dictates the size and location of the benefit brand image*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* This dictates the size and location of the benefit cost image*/
-.benefit-cost img {
+.benefit-lead img, .benefit-cost img, .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 /* Size, style and color of the search engine optimization hmtl link */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Size, style and color of the search engine optimization hmtl link */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Size, style and color of the search engine optimization hmtl link */
-.social-media-marketing {
+.search-engine-optimization, .social-media-marketing, .online-reputation-management{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,32 +113,17 @@ p {
     color: #ffffff;
 }
 /* max height for the image */
-.search-engine-optimization img {
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-/* max height for the image */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* max height for the image */
-.social-media-marketing img {
-    max-height: 200px;
-}
+
+
 /* font size and bottom margin */
-.search-engine-optimization h2 {
+.search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* font size and bottom margin */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* font size and bottom margin */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 /* font, color, alignment of footer, and font family  */
 .footer {
     padding: 30px;
