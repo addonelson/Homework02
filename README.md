@@ -6,8 +6,15 @@
 - Taking on this project I learned alot about how a page should be formatted, also how the css.style sheet co-exists and supports the html code to give your the desired look and functionality for the page. 
 ## Installation
  Attached is a link to the deployed page for easy access. https://addonelson.github.io/Homework02/
+<<<<<<< HEAD
  ## Usage
    ![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-HW-AGD-Homework02-index-html-2021-09-05-14_18_47.png)
   ```
 
+=======
+## Usage
+  ```md
+    ![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-HW-AGD-Homework02-index-html-2021-09-05-14_18_47.png)
+    ```
+>>>>>>> d2792c0008ae1c8c1cce5f50401376ce8be86f7b
 
